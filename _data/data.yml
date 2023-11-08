@@ -1,6 +1,6 @@
 basic:
-  name: Foo Bar                      # name
-  title: Backend Developer           # job title
+  name: Kyle Marfise                     # name
+  title: Platform Architecture Leader           # job title
   avatar:
     show: true                       # show or hide avatar
     path: /assets/images/profile.png # avatar file path
@@ -9,7 +9,7 @@ contact:
   # meta
   location: Wichita, KS # location
   email: KyleMarfise94@gmail.com    # email address
-  linkedin: https://www.linkedin.com/in/kyle-marfise
+  linkedin: kyle-marfise
 
   gender:                  # gender or pronoun
   birthday:                # birthday
