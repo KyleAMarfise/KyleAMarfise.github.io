@@ -88,12 +88,13 @@ skill:
       item: Proficient with most of the platform with the exception of some AI/ML, Streaming and Gaming services.
     - name: Softwares
       item:
-        - Jira
-        - ServiceNow
-        - Confluence
+        - Jira/Confluence, ServiceNow
+        - Datadog
+        - Jfrog Artifactory
+        - ArgoCD
         - Github, Gitlab
         - Cloudability
-        - CIEM/CSPM 
+        - CIEM/CSPM, Splunk
 
 education:
   show: true
