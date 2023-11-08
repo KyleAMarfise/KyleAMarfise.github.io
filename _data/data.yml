@@ -55,14 +55,14 @@ skill:
   order: 4
   title: Toolbox
   description: |
-    Below are a few key focus areas I'm working on improving along with some of the more notable tools I've leveraged.
+    Below are a few focus areas I'm working on improving along with some of the more notable tools I've leveraged.
   items:
     - name: Delegation (WIP)
       level: 4
-    - name: Succinct Non-Technical Communication
+    - name: Succinct Communication
       level: 4
-    - name: Adaptive to change
-      level: 5
+    - name: Work life balance
+      level: 3
 
   groups:
     - name: Amazon Web Services
