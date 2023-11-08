@@ -80,16 +80,18 @@ skill:
       level: 3
 
   groups:
-    - name: Building tools
+    - name: Toolbox
       item:
         - VueJS, ReactJS, ExpressJS, Django, Flask
         - Python, Powershell, Bash
-        - Windows/Linux Distributions
+        - Windows/Linu
         - Terraform
     - name: Amazon Web Services
       item:
-        - CIEM/CSPM Tooling
-        - Skill G
+        - CIEM (Ermetic) / CSPM (DivvyCloud)
+        - All computing services
+        - All storage services
+        - Most database services
     - name: Softwares
       item:
         - Jira
