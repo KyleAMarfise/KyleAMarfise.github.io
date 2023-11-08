@@ -5,11 +5,6 @@ basic:
     show: true                       # show or hide avatar
     path: /assets/images/profile.png # avatar file path
 
-
-Denver Metropolitan Area
-himself@justinddavis.com
-JustinDDavis
-justindd
 contact:
   # meta
   location: Wichita, KS # location
