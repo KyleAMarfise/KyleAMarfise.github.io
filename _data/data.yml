@@ -69,7 +69,8 @@ skill:
       level: 3
 
   groups:
-  
+    - name: 
+      item:  
     - name: Amazon Web Services
       item: Proficient with most of the platform with the exception of some AI/ML, Streaming and Gaming services.
     
@@ -96,11 +97,9 @@ education:
   show: true
   order: 5
   title: Education
-  # description: |
-  #   test
   items:
     - institution: Emporia State University
-      link: '#'
+      link: 'https://www.emporia.edu/'
       date: 2012 - 2016
       major: Management Information Systems
       degree: Bachelor
