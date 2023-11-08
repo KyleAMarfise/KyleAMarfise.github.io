@@ -57,8 +57,8 @@ skill:
   # description: |
   #   The skills section in a resume is a dedicated section where you can list out the various skills that you possess that are relevant to the job you are applying for. This section allows you to highlight your strengths and demonstrate your capabilities to potential employers.
   items:
-    - name: Skill A
-      level: 5
+    - name: Delegation (WIP)
+      level: 4
     - name: Skill B
       level: 4
     - name: Skill C
@@ -77,6 +77,8 @@ skill:
       level: 3
 
   groups:
+    - name: Amazon Web Services
+      item: Proficient with most of the platform with the exception of some AI/ML, Streaming and Gaming services.
     - name: Tools
       item:
         - IaC Tooling (Terraform)
@@ -84,8 +86,6 @@ skill:
         - VueJS, ReactJS, ExpressJS, Django, Flask
         - Git, Python, Powershell, Bash
         - Windows/Linux
-    - name: Amazon Web Services
-      item: Proficient with most of the platform with the exception of some AI/ML, Streaming and Gaming services.
     - name: Softwares
       item:
         - Jira/Confluence, ServiceNow
