@@ -89,9 +89,7 @@ skill:
     - name: Amazon Web Services
       item:
         - CIEM (Ermetic) / CSPM (DivvyCloud)
-        - All computing services
-        - All storage services
-        - Most database services
+        - Mostly proficient with all (Compute, Storage, Database, Serverless, Networking and Content Delivery, API) services
     - name: Softwares
       item:
         - Jira
