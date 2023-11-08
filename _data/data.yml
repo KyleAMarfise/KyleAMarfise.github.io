@@ -69,8 +69,10 @@ skill:
       level: 3
 
   groups:
+  
     - name: Amazon Web Services
       item: Proficient with most of the platform with the exception of some AI/ML, Streaming and Gaming services.
+    
     - name: Tools
       item:
         - IaC Tooling (Terraform)
@@ -79,6 +81,7 @@ skill:
         - Django, Flask
         - Git, Python, Powershell, Bash
         - Windows/Linux administration
+
     - name: SaaS/IaaS Softwares
       item:
         - Jira/Confluence, ServiceNow
