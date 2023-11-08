@@ -5,12 +5,16 @@ basic:
     show: true                       # show or hide avatar
     path: /assets/images/profile.png # avatar file path
 
+
+Denver Metropolitan Area
+himself@justinddavis.com
+JustinDDavis
+justindd
 contact:
   # meta
-  location: Beijing, China # location
-  email: me@example.com    # email address
-  phone: +86-111-2222-3333 # phone number, format is "+[Country Code] [Area Code (if applicable)] [Local Phone Number]"
-  website: example.com     # site URL without schema, like example.com, will automatically prepand "https://"
+  location: Wichita, KS # location
+  email: KyleMarfise94@gmail.com    # email address
+  linkedin: https://www.linkedin.com/in/kyle-marfise
 
   gender:                  # gender or pronoun
   birthday:                # birthday
@@ -59,7 +63,6 @@ contact:
   artstation:              # username          | https://www.artstation.com/username
 
   # other cv
-  linkedin:                # username          | https://linkedin.com/in/username
   indeed:                  # resumeid          | https://my.indeed.com/p/resumeid
   xing:                    # username          | https://www.xing.com/profile/username
   fiverr:                  # username          | https://www.fiverr.com/username
