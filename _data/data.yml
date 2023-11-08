@@ -214,15 +214,15 @@ education:
       date: 2014 - 2015
       major: (1) Computing Operations  (1) Technical Project Delivery Analyst
 
-interest:
-  show: true
-  order: 12
-  title: Interests
-  items:
-    - item: Dirt biking 
-    - item: Any form of Excercise
-    - item: Building something with my hands
-    - item: Learning and applying something new
+# interest:
+#   show: true
+#   order: 12
+#   title: Interests
+#   items:
+#     - item: Dirt biking 
+#     - item: Any form of Excercise
+#     - item: Building something with my hands
+#     - item: Learning and applying something new
 
 reference:
   show: true
