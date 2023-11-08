@@ -84,9 +84,7 @@ skill:
         - Windows/Linu
         - Terraform
     - name: Amazon Web Services
-      item:
-        - CIEM (Ermetic) / CSPM (DivvyCloud)
-        - Proficient with most of the platform with the exception of some AI/ML, Streaming and Gaming services.
+      description: Proficient with most of the platform with the exception of some AI/ML, Streaming and Gaming services.
     - name: Softwares
       item:
         - Jira
