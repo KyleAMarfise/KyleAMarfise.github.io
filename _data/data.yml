@@ -51,8 +51,10 @@ experience:
       role: Koch Business Solutions - Koch Industries
       link: https://www.kochind.com/
       description: |
-        + First
-        + Second
+        + Delivered ~$4MM in computing hardware projects for all of Koch's subsidiaries. 
+        + Developed a mass windows onboarding automation that was leveraged for acquisitions. Resulted in ~$250k in YOY labor savings.
+        + Developed a automated Vmware ESXi host QA process. Eliminated ~12 working hours across the team every week.
+        + Developed a workflow for migrating servers to AWS for all Koch companies. Through migration projects, this mitigated $200k in labor costs and accelerated migrations.
 
 skill:
   show: true
