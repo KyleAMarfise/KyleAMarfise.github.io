@@ -43,6 +43,7 @@ experience:
       link: https://invista.com/
       description: |
         + Led cloud engineers through legacy application modernization efforts for various manufacturing applications.
+          + One modernization was published with Amazon [HERE](https://aws.amazon.com/blogs/industries/invista-refactors-critical-legacy-shop-floor-application-using-aws/)
         + Led development efforts for a reporting and remediation automation responsible for reporting on AWS cloud platform environment configurations that were non-standard and security risks. This was years before Koch invested into a CSPM (Cloud Security Posture Management) tool.
         + Developed the 'Vision Portal'. INVISTA's first computer vision application with cloud native event-driven architecture. Capable of running inference in the cloud and on-premise.
         + Started and led cost optimization efforts to transition our entire AWS platform to new standards.
