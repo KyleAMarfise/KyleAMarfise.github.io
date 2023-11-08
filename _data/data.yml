@@ -57,7 +57,7 @@ skill:
   description: |
     Below are a few focus areas I'm working on improving along with some of the more notable tools I've leveraged.
   items:
-    - name: Delegation (WIP)
+    - name: Delegation
       level: 4
     - name: Succinct Communication
       level: 4
