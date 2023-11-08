@@ -10,6 +10,7 @@ contact:
   location: Wichita, KS # location
   email: KyleMarfise94@gmail.com    # email address
   linkedin: kyle-marfise
+  github: KyleAMarfise
 
   gender:                  # gender or pronoun
   birthday:                # birthday
@@ -28,7 +29,6 @@ contact:
 
   # programmer
   github:                  # username          | https://github.com/username
-  gitlab:                  # username          | https://gitlab.com/username
   bitbucket:               # username          | https://bitbucket.com/username
   stackoverflow:           # id or id/username | https://stackoverflow.com/users/id/username
   leetcode:                # username          | https://leetcode.com/username
