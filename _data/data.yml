@@ -19,7 +19,7 @@ experience:
   items:
     - company: Platform Architecture Leader
       tags: Promotion
-      date: July,2021 - Current
+      date: July, 2021 - Current
       role: INVISTA - Koch Industries
       location: Wichita, KS (Hybrid/WFH)
       description: |
@@ -28,7 +28,7 @@ experience:
 
     - company: Cloud and Data Engineering Leader
       tags: Promotion
-      date: Oct,2020 - July,2021
+      date: Oct, 2020 - July, 2021
       role: INVISTA - Koch Industries
       location: Wichita, KS (In Office)
       description: |
@@ -37,7 +37,7 @@ experience:
     
     - company: Lead Cloud Architect
       tags: Promotion
-      date: Nov,2018 - Oct,2020
+      date: Nov, 2018 - Oct, 2020
       role: INVISTA - Koch Industries
       location: Wichita, KS (In Office)
       description: |
@@ -57,10 +57,8 @@ skill:
   show: true
   order: 4
   title: Talents
-  description: |
-    The skills section in a resume is a dedicated section where you can list out the various skills that you possess that are relevant to the job you are applying for. This section allows you to highlight your strengths and demonstrate your capabilities to potential employers.
-
-    The skills section can include both hard skills and soft skills. Hard skills are specific technical abilities or knowledge related to a particular job or industry, such as proficiency in programming languages or experience with certain software programs. Soft skills are more general personal traits and abilities, such as communication skills, leadership, problem-solving, or teamwork.
+  # description: |
+  #   The skills section in a resume is a dedicated section where you can list out the various skills that you possess that are relevant to the job you are applying for. This section allows you to highlight your strengths and demonstrate your capabilities to potential employers.
   items:
     - name: Skill A
       level: 5
