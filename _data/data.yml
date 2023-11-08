@@ -53,7 +53,7 @@ experience:
 skill:
   show: true
   order: 4
-  title: Talents
+  title: Toolbox
   # description: |
   #   The skills section in a resume is a dedicated section where you can list out the various skills that you possess that are relevant to the job you are applying for. This section allows you to highlight your strengths and demonstrate your capabilities to potential employers.
   items:
@@ -77,12 +77,13 @@ skill:
       level: 3
 
   groups:
-    - name: Toolbox
+    - name: Tools
       item:
+        - IaC Tooling (Terraform)
+        - Github workflows, Gitlab CICD pipelines
         - VueJS, ReactJS, ExpressJS, Django, Flask
-        - Python, Powershell, Bash
-        - Windows/Linu
-        - Terraform
+        - Git, Python, Powershell, Bash
+        - Windows/Linux
     - name: Amazon Web Services
       item: Proficient with most of the platform with the exception of some AI/ML, Streaming and Gaming services.
     - name: Softwares
@@ -90,8 +91,9 @@ skill:
         - Jira
         - ServiceNow
         - Confluence
-        - Github
-        - Gitlab
+        - Github, Gitlab
+        - Cloudability
+        - CIEM/CSPM 
 
 education:
   show: true
