@@ -30,7 +30,6 @@ experience:
       tags: Promotion
       date: Oct, 2020 - July, 2021
       role: INVISTA - Koch Industries
-      location: Wichita, KS (In Office)
       description: |
         + First
         + Second
@@ -39,7 +38,6 @@ experience:
       tags: Promotion
       date: Nov, 2018 - Oct, 2020
       role: INVISTA - Koch Industries
-      location: Wichita, KS (In Office)
       description: |
         + First
         + Second
@@ -48,7 +46,6 @@ experience:
       tags: Entry
       date: Jan,2016 - Nov,2018
       role: Koch Business Solutions - Koch Industries
-      location: Wichita, KS (In Office)
       description: |
         + First
         + Second
@@ -116,6 +113,7 @@ education:
       link: 'https://jobs.kochcareers.com/early-careers'
       date: 2014 - 2015
       major: (1) Computing Operations  (1) Technical Project Delivery Analyst
+      degree: Internships
 
 reference:
   show: true
