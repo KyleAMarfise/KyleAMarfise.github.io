@@ -13,8 +13,8 @@ contact:
   github: KyleAMarfise
 
 experience:
-  show: true
   order: 2
+  show: false
   title: Professional Experience
   items:
     - company: Platform Architecture Leader
@@ -24,19 +24,28 @@ experience:
       link: https://invista.com/
       location: Wichita, KS (Hybrid/WFH)
       description: |
-        + First
-        + Second
+        + Led the re:architecture of our enterprise data historian which resulted in $100k YOY infrastructure run-time savings.
+        + Through effective use of RRE's, rebranding and shifting priorities I changed my teams focus to address larger enterprise gaps and built a Software Engineering capability.  
+        Led my team through a project that eliminated 38MM IP addresses from our network. Contributing to our zero-trust strategy.
+        + Built a strong contribution focused team 
+        + Built an effective DevOps strategy through the combination of talent pipeline building, tool implementation and education to multiple teams.
+        + Through various efforts, started, led or supported Cloud optimization projects that have reduced our YOY spend by $600k throughout my tenure in this role. This has fought off natural cost growth and drove us closer to cost neutrality on a monthly basis.
+        + Improved my teams prioritization and work processes by adding more structure and expectations for how we engage product owners. Resulting in strengthened partnerships as one team.
 
     - company: Cloud and Data Engineering Leader
+      show: false
       tags: Promotion
       date: Oct, 2020 - July, 2021
       role: INVISTA - Koch Industries
       link: https://invista.com/
       description: |
-        + First
+        + Drove and executed on improving GAP analysis findings that highlighted systemic problems within our data engineering organization.
+        + Effectively coached "C" talent into "A" talent for our organization through effective use of RRE's and business outcomes that aligned with their passions and innate abilities.
+        + Coached and exited under performing talent.
         + Second
     
     - company: Lead Cloud Architect
+      show: false
       tags: Promotion
       date: Nov, 2018 - Oct, 2020
       role: INVISTA - Koch Industries
