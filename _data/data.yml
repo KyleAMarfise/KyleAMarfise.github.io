@@ -80,21 +80,23 @@ skill:
       level: 3
 
   groups:
-    - name: Group A Skills
+    - name: Building tools
       item:
-        - Skill A
-        - Skill B
-        - Skill C
-        - Skill D
-    - name: Group B Skills
+        - VueJS, ReactJS, ExpressJS, Django, Flask
+        - Python, Powershell, Bash
+        - Windows/Linux Distributions
+        - Terraform
+    - name: Amazon Web Services
       item:
-        - Skill E
-        - Skill F
+        - CIEM/CSPM Tooling
         - Skill G
-    - name: Group C Skills
+    - name: Softwares
       item:
-        - Skill H
-        - Skill I
+        - Jira
+        - ServiceNow
+        - Confluence
+        - Github
+        - Gitlab
 
 education:
   show: true
