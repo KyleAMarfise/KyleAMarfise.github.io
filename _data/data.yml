@@ -42,8 +42,8 @@ experience:
       role: INVISTA - Koch Industries
       link: https://invista.com/
       description: |
-        + Led cloud engineers through legacy application modernization efforts for various manufacturing applications. Reducing infrastructure costs and development release cycles.
-        + Second
+        + Led cloud engineers through legacy application modernization efforts for various manufacturing applications.
+        + Led development efforts for a reporting and remediation automation responsible for reporting on AWS cloud platform environment configurations that were non-standard and security risks. This was years before Koch invested into a CSPM (Cloud Security Posture Management) tool.
 
     - company: Technical Delivery Analyst
       tags: Entry
