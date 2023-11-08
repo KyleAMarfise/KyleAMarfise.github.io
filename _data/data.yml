@@ -69,8 +69,7 @@ skill:
       level: 3
 
   groups:
-    - name: 
-      item:  
+
     - name: Amazon Web Services
       item: Proficient with most of the platform with the exception of some AI/ML, Streaming and Gaming services.
     
@@ -81,7 +80,7 @@ skill:
         - VueJS, ReactJS, ExpressJS
         - Django, Flask
         - Git, Python, Powershell, Bash
-        - Windows/Linux administration
+        - Windows/Linux Administration
 
     - name: SaaS/IaaS Softwares
       item:
