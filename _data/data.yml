@@ -20,7 +20,6 @@ experience:
       tags: Promotion
       date: July, 2021 - Current
       role: INVISTA - Koch Industries
-      link: https://invista.com/
       location: Wichita, KS (Hybrid/WFH)
       description: |
         + Accountable for managing and optimizing ~$2.5MM in cloud platform spend for our enterprise.
@@ -45,19 +44,17 @@ experience:
       date: Oct, 2020 - July, 2021
       role: INVISTA - Koch Industries
       location: Wichita, KS (Office)
-      link: https://invista.com/
       description: |
         + Coached "C" to "A" level talent through effective use of RRE's and alignment with gifts and business outcomes.
         + After significant coaching, exited under performing talent from our organization.
         + Led a GAP analysis excercise that highlighted systemic problems within our data engineering organization and provided insights to senior leadership prior to my departure.
         + Collaboratively worked with Koch companies to implement Alkira (Network as a Service) for our private cloud.
     
-    - company: <h4>Lead Cloud Architect</h4>
+    - company: <h3>Lead Cloud Architect</h3>
       tags: Promotion
       date: Nov, 2018 - Oct, 2020
       role: INVISTA - Koch Industries
       location: Wichita, KS (Office)
-      link: https://invista.com/
       description: |
         + Led cloud engineers through a modernization effort for a valued manufacturing application. Highlighted in a blog by Amazon [**<u>HERE</u>**](https://aws.amazon.com/blogs/industries/invista-refactors-critical-legacy-shop-floor-application-using-aws/)        
         + Developed the 'Vision Portal' product *(Realized value has grown to ~$2MM)*. INVISTA's first computer vision application with cloud native event-driven architecture. Capable of running inference in the cloud and on-premise.
@@ -65,12 +62,11 @@ experience:
           + GP2 --> GP3 storage architecture *( $80k YOY, gained elasticity, first at Koch to do this at scale )*
           + Intel --> AMD server processor architecture *( $50k YOY )*
 
-    - company: <h4>Technical Delivery Analyst</h4>
+    - company: <h3>Technical Delivery Analyst</h3>
       tags: Entry
       date: Jan,2016 - Nov,2018
       role: Koch Business Solutions - Koch Industries
       location: Wichita, KS (Office)
-      link: https://www.kochind.com/
       description: |
         + Delivered ~$4MM in computing hardware projects for all of Koch's subsidiaries. 
         + Developed a server onboarding automation for acquisitions resulting in ~$250k in YOY labor savings.
