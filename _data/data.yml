@@ -42,7 +42,7 @@ experience:
       link: https://invista.com/
       description: |
         + Led a GAP analysis excercise that highlighted systemic problems within our data engineering organization and provided insights to senior leadership prior to my departure.
-        + Coached "C" --> "A" level talent for our organization through effective use of RRE's and business outcomes that aligned with their passions and innate abilities.
+        + Coached "C" --> "A" level talent for our organization through effective use of RRE's and aligning with their gifts and passions to desired outcomes.
         + Coached and exited under performing talent.
         + Collaboratively worked with Koch companies to implement Alkira (Network as a Service) for our private cloud.
     
@@ -52,7 +52,7 @@ experience:
       role: INVISTA - Koch Industries
       link: https://invista.com/
       description: |
-        + Led cloud engineers through a modernization effort for a valued manufacturing application. Highlighted in a blog by Amazon [**HERE**](https://aws.amazon.com/blogs/industries/invista-refactors-critical-legacy-shop-floor-application-using-aws/)*.        
+        + Led cloud engineers through a modernization effort for a valued manufacturing application. Highlighted in a blog by Amazon [**HERE**](https://aws.amazon.com/blogs/industries/invista-refactors-critical-legacy-shop-floor-application-using-aws/)*        
         + Developed the 'Vision Portal' product *(Realized value has grown to ~$2MM)*. INVISTA's first computer vision application with cloud native event-driven architecture. Capable of running inference in the cloud and on-premise.
         + Proposed and led cost optimization efforts to transition our entire AWS platform to new computing standards.
           + GP2 --> GP3 Storage *( $80k YOY, gained elasticity, first at Koch to do this at scale )*
