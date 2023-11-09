@@ -14,10 +14,11 @@ contact:
 
 experience:
   #order: 2
-  show: false
+  show: true
   title: Professional Experience
   items:
     - company: Platform Architecture Leader
+      show: false
       tags: Promotion
       date: July, 2021 - Current
       role: INVISTA - Koch Industries
