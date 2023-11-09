@@ -52,7 +52,7 @@ experience:
       role: INVISTA - Koch Industries
       link: https://invista.com/
       description: |
-        + Led cloud engineers through a modernization effort for a valued manufacturing application. Highlighted in a blog by Amazon [<u>**HERE**</u>](https://aws.amazon.com/blogs/industries/invista-refactors-critical-legacy-shop-floor-application-using-aws/)        
+        + Led cloud engineers through a modernization effort for a valued manufacturing application. Highlighted in a blog by Amazon [**<u>HERE</u>**](https://aws.amazon.com/blogs/industries/invista-refactors-critical-legacy-shop-floor-application-using-aws/)        
         + Developed the 'Vision Portal' product *(Realized value has grown to ~$2MM)*. INVISTA's first computer vision application with cloud native event-driven architecture. Capable of running inference in the cloud and on-premise.
         + Proposed and led cost optimization efforts to transition our entire AWS platform to new computing standards.
           + GP2 --> GP3 storage architecture *( $80k YOY, gained elasticity, first at Koch to do this at scale )*
