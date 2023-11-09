@@ -18,7 +18,6 @@ experience:
   title: Professional Experience
   items:
     - company: Platform Architecture Leader
-      show: false
       tags: Promotion
       date: July, 2021 - Current
       role: INVISTA - Koch Industries
@@ -37,7 +36,6 @@ experience:
           + To accelerate the migration activity, we equipped teams with highly automated pipelines.
 
     - company: Cloud and Data Engineering Leader
-      show: false
       tags: Promotion
       date: Oct, 2020 - July, 2021
       role: INVISTA - Koch Industries
@@ -49,7 +47,6 @@ experience:
         + Collaboratively worked with partnering Koch companies to implement Alkira (Network as a Service) management for our private cloud networks.
     
     - company: Lead Cloud Architect
-      show: false
       tags: Promotion
       date: Nov, 2018 - Oct, 2020
       role: INVISTA - Koch Industries
@@ -63,16 +60,15 @@ experience:
           + Intel --> AMD Server Processors ($50k YOY)
 
     - company: Technical Delivery Analyst
-      show: true
       tags: Entry
       date: Jan,2016 - Nov,2018
       role: Koch Business Solutions - Koch Industries
       link: https://www.kochind.com/
       description: |
         + Delivered ~$4MM in computing hardware projects for all of Koch's subsidiaries. 
-        + Developed a windows onboarding automation for acquisitions. Resulted in ~$250k in YOY labor savings.
-        + Developed a automated Vmware ESXi host QA process. Eliminated ~12 working hours across the team every week.
-        + Developed a workflow for migrating servers to AWS for all Koch companies. Through migration projects, this mitigated $200k in labor costs and accelerated cloud migrations.
+        + Developed a server onboarding automation for acquisitions resulting in ~$250k in YOY labor savings.
+        + Developed a automated Vmware ESXi host QA process. Eliminating 12 hours of weekly labor for QA activities and reduced our bill back to customers by ~$7,000/month.
+        + Developed a workflow for migrating servers to AWS. Through migration projects, this mitigated $200k in labor costs and accelerated koch cloud migrations.
 
 skill:
   show: true
