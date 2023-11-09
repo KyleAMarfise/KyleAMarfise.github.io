@@ -34,6 +34,7 @@ experience:
         + Improved my teams prioritization and work processes by adding more structure and expectations for how we engage product owners. Resulting in strengthened partnerships as one team.
         + Through a economic and risk analysis assessment, I proposed and implemented two new regions for our business (US-EAST-2 (Ohio), AP-NORTHEAST-1 (Tokyo)). Ohio became our primary region with Tokyo as a second best to server our growing business in China.
           + To accelerate the migration activity, we equipped teams with highly automated pipelines.
+        + In partnership with other companies, evaluated, proposed and implemented CSPM and CIEM tools for our business. Both have increased our cloud health.
 
     - company: Cloud and Data Engineering Leader
       tags: Promotion
@@ -41,10 +42,10 @@ experience:
       role: INVISTA - Koch Industries
       link: https://invista.com/
       description: |
-        + Drove and executed on improving GAP analysis findings that highlighted systemic problems within our data engineering organization.
-        + Effectively coached "C" talent into "A" talent for our organization through effective use of RRE's and business outcomes that aligned with their passions and innate abilities.
+        + Led a GAP analysis excercise that highlighted systemic problems within our data engineering organization and provided insights to senior leadership prior to my departure.
+        + Coached "C" --> "A" level talent for our organization through effective use of RRE's and business outcomes that aligned with their passions and innate abilities.
         + Coached and exited under performing talent.
-        + Collaboratively worked with partnering Koch companies to implement Alkira (Network as a Service) management for our private cloud networks.
+        + Collaboratively worked with Koch companies to implement Alkira (Network as a Service) for our private cloud.
     
     - company: Lead Cloud Architect
       tags: Promotion
@@ -67,7 +68,7 @@ experience:
         + Delivered ~$4MM in computing hardware projects for all of Koch's subsidiaries. 
         + Developed a server onboarding automation for acquisitions resulting in ~$250k in YOY labor savings.
         + Developed a Vmware ESXi host QA process that eliminated 24hrs/mo of labor and reduced our bill back to customers by ~$2.5k/mo.
-        + Developed a workflow for migrating servers to AWS. Through projects, this mitigated $200k in labor costs and accelerated Koch cloud migrations.
+        + Developed a workflow for migrating servers to AWS. This mitigated $200k in project costs and accelerated Koch cloud migrations.
 
 skill:
   show: true
