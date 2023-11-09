@@ -52,12 +52,10 @@ experience:
       role: INVISTA - Koch Industries
       link: https://invista.com/
       description: |
-        + Led cloud engineers through legacy application modernization efforts for various manufacturing applications.
-          + *One modernization was published with Amazon [**HERE**](https://aws.amazon.com/blogs/industries/invista-refactors-critical-legacy-shop-floor-application-using-aws/)*
-        + Developed the 'Vision Portal' product *(Realized value has grown to ~$2MM)*. INVISTA's first computer vision application with cloud native event-driven architecture. Capable of running inference in the cloud and on-premise.
-        + Started and led cost optimization efforts to transition our entire AWS platform to new standards.
-          + GP2 --> GP3 Storage ($80k YOY, gained elasticity, first at Koch to execute)
-          + Intel --> AMD Server Processors ($50k YOY)
+        + Led cloud engineers through a major undertaking for a manufacturing application. This was highlighted in a published blog by Amazon. Find it [**HERE**](https://aws.amazon.com/blogs/industries/invista-refactors-critical-legacy-shop-floor-application-using-aws/)*        + Developed the 'Vision Portal' product *(Realized value has grown to ~$2MM)*. INVISTA's first computer vision application with cloud native event-driven architecture. Capable of running inference in the cloud and on-premise.
+        + Proposed and led cost optimization efforts to transition our entire AWS platform to new computing standards.
+          + GP2 --> GP3 Storage *( $80k YOY, gained elasticity, first at Koch to do this at scale )*
+          + Intel --> AMD Server Processors *( $50k YOY )*
 
     - company: Technical Delivery Analyst
       tags: Entry
