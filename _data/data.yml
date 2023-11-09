@@ -78,11 +78,11 @@ skill:
     Below are a some of my innate abilities along with notable tools I'm skillful with.
   items:
     - name: Delegation
-      level: 4
+      level: 5
     - name: Succinct Communication
-      level: 4
+      level: 5
     - name: Work life balance
-      level: 3
+      level: 5
 
   groups:
 
