@@ -16,10 +16,10 @@ experience:
   show: true
   title: Professional Experience
   items:
-    - company: Platform Architecture Leader
+    - company: <h3>Platform Architecture Leader</h3>
       tags: Promotion
       date: July, 2021 - Current
-      role: INVISTA - Koch Industries
+      role: &nbsp; INVISTA - Koch Industries
       location: Wichita, KS (Hybrid/WFH)
       description: |
         + Accountable for managing and optimizing ~$2.5MM in cloud platform spend for our enterprise.
@@ -39,7 +39,7 @@ experience:
         + Shifted talent to other capabilities where they can be more successful.
         + Built effective onboarding plans that accelerated new employee growth and ability to add immediate value.
 
-    - company: Cloud and Data Engineering Leader
+    - company: <h3>Cloud and Data Engineering Leader</h3>
       tags: Promotion
       date: Oct, 2020 - July, 2021
       role: INVISTA - Koch Industries
