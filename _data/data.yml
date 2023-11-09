@@ -1,6 +1,6 @@
 basic:
-  name: Kyle Marfise                     # name
-  title: Technologist and Leader           # job title
+  name: Kyle Marfise
+  title: Evangelist, Technologist and Leader
   avatar:
     show: true                       # show or hide avatar
     path: /assets/images/profile.png # avatar file path
