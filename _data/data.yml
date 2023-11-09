@@ -13,7 +13,7 @@ contact:
   github: KyleAMarfise
 
 experience:
-  order: 2
+  #order: 2
   show: false
   title: Professional Experience
   items:
@@ -24,6 +24,7 @@ experience:
       link: https://invista.com/
       location: Wichita, KS (Hybrid/WFH)
       description: |
+        + Responsible for managing and optimizing ~$2.5MM in cloud platform spend for our enterprise.
         + Led the re:architecture of our enterprise data historian which resulted in $100k YOY infrastructure run-time savings.
         + Through effective use of RRE's, rebranding and shifting priorities I changed my teams focus to address larger enterprise gaps and built a Software Engineering capability.  
         + Led my team through a project that eliminated 38MM IP addresses from our network. Contributing to our zero-trust strategy.
@@ -89,7 +90,7 @@ skill:
   groups:
 
     - name: Amazon Web Services
-      item: Proficient with consultation/implementation for the majority of platform services with the exception of some AI/ML, Streaming and Gaming services.
+      item: Proficient with consultation and implementation of the majority technologies with the exception of some AI/ML, Streaming and Gaming services.
     
     - name: Tools
       item:
