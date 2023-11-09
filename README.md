@@ -1,4 +1,4 @@
-<h1 align="center">online-resume</h1>
+<h1 align="center">Kyle Marfise Resume</h1>
 
 <p align="center">
   <a href="https://github.com/tarrex/online-resume/blob/master/LICENSE"><img src="https://img.shields.io/github/license/tarrex/online-resume?style=flat-square" alt="GitHub License"></a>
@@ -7,10 +7,14 @@
   <a href="https://tarrex.github.io/online-resume"><img src="https://img.shields.io/website?down_color=red&down_message=down&style=flat-square&up_color=green&up_message=up&url=https%3A%2F%2Ftarrex.github.io%2Fonline-resume" alt="Demo Website"></a>
 </p>
 
-<h4 align="center">A minimalist Jekyll theme for your resume.</h4>
+<h4 align="center">My personal resume built with a minimalist Jekyll theme.</h4>
 
 ---
 
+<h1 align="center">https://kyleamarfise.github.io/</h1>
+
+
+<!-- 
 ## Live Demo
 
 :point_right: [online-resume][Demo] :point_left:
@@ -78,4 +82,4 @@ You can read and follow [Cloudflare Pages][Cloudflare Pages], [Vercel][Vercel] d
 [Demo]: https://tarrex.github.io/online-resume
 [Cloudflare Pages]: https://developers.cloudflare.com/pages/framework-guides/deploy-a-jekyll-site/
 [Vercel]: https://vercel.com/guides/deploying-jekyll-with-vercel
-[Other Version]: https://github.com/tarrex/hugo-theme-online-resume
+[Other Version]: https://github.com/tarrex/hugo-theme-online-resume -->
