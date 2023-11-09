@@ -77,11 +77,11 @@ skill:
   order: 4
   title: Toolbox
   items:
-    - name: Delegation
-      level: 4
+    - name: Curious and tenanciously ambitious
+      level: 5
     - name: Building trust and rapport
       level: 5
-    - name: Work life balance
+    - name: Contribution motivated
       level: 5
 
   groups:
