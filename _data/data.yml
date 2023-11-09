@@ -19,7 +19,7 @@ experience:
     - company: <h3>Platform Architecture Leader</h3>
       tags: Promotion
       date: July, 2021 - Current
-      role: &nbsp; INVISTA - Koch Industries
+      role: INVISTA - Koch Industries
       location: Wichita, KS (Hybrid/WFH)
       description: |
         + Accountable for managing and optimizing ~$2.5MM in cloud platform spend for our enterprise.
@@ -77,8 +77,6 @@ skill:
   show: true
   order: 4
   title: Toolbox
-  description: |
-    With feedback from others, I've listed three key strengths along with some notable tools I'm skillful with.
   items:
     - name: Delegation
       level: 4
