@@ -75,9 +75,9 @@ skill:
   order: 4
   title: Toolbox
   items:
-    - name: Curious and tenanciously ambitious
+    - name: Curious and ambitious
       level: 5
-    - name: Building trust and rapport
+    - name: Builder of trust and rapport
       level: 5
     - name: Contribution motivated
       level: 5
