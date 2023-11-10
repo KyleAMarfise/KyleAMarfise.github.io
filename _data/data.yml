@@ -16,17 +16,17 @@ achievements:
   order: 1
   title: Selected Achievements
   items:
-    - name: Personal project
+    - name: Capability Development
       description: |
-        Personal project description...
-        + First
+        + Built a software engineering capability.
+        + Recruited, managed and coached "C" talent to "A" players.
+        + Established vision and stategy to develop a DevOps and FinOps culture through development of people, data, tools and process.
+
+    - name: Technology Modernization and Advancements
+      description: |
+        + Led or created multiple innovations that have realized 
         + Second
 
-    - name: OSS project
-      description: |
-        OSS project description...
-        + First
-        + Second
 
 experience:
   order: 2
