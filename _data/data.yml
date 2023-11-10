@@ -75,7 +75,7 @@ experience:
         + In addition to my technical contributions, I had the responsibility of supervising and leading 3 other cloud engineers.
         + Led engineers through a modernization effort for a valued manufacturing application. Highlighted in a blog by Amazon [**<u>HERE</u>**](https://aws.amazon.com/blogs/industries/invista-refactors-critical-legacy-shop-floor-application-using-aws/)        
         + Developed the 'Vision Portal' product *(Realized value has grown to ~$2MM)*. INVISTA's first computer vision application with cloud native event-driven architecture. Capable of running inference in the cloud and on-premise.
-        + While embracing continuous innovations, I lead an effort to upgrade storage and processors to accelerate speed and reduce ongoing costs which resulted in $200k YOY run-time savings. 
+        + While embracing continuous innovations, I led an effort to upgrade storage and processors to accelerate speed and reduce ongoing costs which resulted in $200k YOY run-time savings. 
           + GP2 --> GP3 storage architecture *( First at Koch to do this at scale )*
           + Intel --> AMD server processor architecture
 
