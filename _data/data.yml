@@ -11,8 +11,38 @@ contact:
   linkedin: kyle-marfise
   github: KyleAMarfise
 
+achievements:
+  show: true
+  order: 1
+  title: achievements
+  description: |
+    The project section in a resume is a section where you can highlight any significant projects that you have completed during your education, work experience, or personal endeavors. This section provides a detailed description of your projects that can showcase your skills, abilities, and achievements.
+
+    In this section, you should include the name of the project, the role you played in the project, the duration, the tools and technologies you used, the objective of the project, and the outcome or result achieved. You can also include any relevant metrics or data that demonstrate the impact of the project.
+
+    The project section is especially useful for candidates with limited work experience or those looking to highlight specific skills or accomplishments that may not be apparent in other parts of their resume. It can also be beneficial for candidates in technical or creative fields, where projects play a significant role in showcasing their capabilities.
+
+  items:
+    - name: Personal project
+      link: '#'
+      tags:
+      date: 2015 - 2017
+      description: |
+        Personal project description...
+        + First
+        + Second
+
+    - name: OSS project
+      link:
+      tags: committer
+      date:
+      description: |
+        OSS project description...
+        + First
+        + Second
+
 experience:
-  #order: 2
+  order: 2
   show: true
   title: Professional Experience
   items:
@@ -72,8 +102,8 @@ experience:
         + Developed a workflow for migrating servers to AWS. This mitigated $200k in project costs and accelerated Koch cloud migrations.
 
 skill:
+  order: 3
   show: true
-  order: 4
   title: Toolbox
   items:
     - name: Curious and ambitious
@@ -110,7 +140,7 @@ skill:
 
 education:
   show: true
-  order: 5
+  order: 4
   title: Education
   items:
     - institution: Emporia State University
@@ -128,7 +158,7 @@ education:
 
 reference:
   show: true
-  order: 14
+  order: 5
   title: References
   description: |
     Available on request.
