@@ -54,6 +54,7 @@ experience:
       role: INVISTA - Koch Industries
       location: Wichita, KS (Office)
       description: |
+        + In addition to my technical contributions, I had the responsibility of supervising and leading 3 other cloud engineers.
         + Led cloud engineers through a modernization effort for a valued manufacturing application. Highlighted in a blog by Amazon [**<u>HERE</u>**](https://aws.amazon.com/blogs/industries/invista-refactors-critical-legacy-shop-floor-application-using-aws/)        
         + Developed the 'Vision Portal' product *(Realized value has grown to ~$2MM)*. INVISTA's first computer vision application with cloud native event-driven architecture. Capable of running inference in the cloud and on-premise.
         + While embracing continuous innovations, I lead an effort to upgrade storage and processors to accelerate speed and reduce ongoing costs which resulted in $200k YOY in run-time savings. 
