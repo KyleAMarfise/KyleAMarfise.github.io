@@ -27,9 +27,8 @@ experience:
         + Collaborated with IT senior leaders to build a computing operations team focused on increasing the health of our global server footprint. 
         + Through adjusting team responsibilities, rebranding and shifting priorities, I built a growing Software Engineering capability.
         + Focused on recruiting, hiring and management (growing and/or existing) individuals through performance plans.
-        + Coached "C" to "A" level talent through effective use of RRE's and alignment with gifts and business outcomes.
-        + Shifted talent to other capabilities where they can be more successful long-term.
-        + Led the development of Koch's first AWS IAM management platform that manages thousands of identities across our environments. This generated ~$250k in value through accelerated provisioning and central management.
+        + Coached "C" to "A" level talent through effective use of of their gifts and alignment with business outcomes.
+        + Led the development of Koch's first AWS IAM management platform that manages thousands of identities across our environments. Over 2 years, this is estimated to have generated ~$250k through accelerated provisioning and central management.
         + Designed a re:architecture for our enterprise data historian which will result in $100k YOY infrastructure run-time savings.
         + Led my team through a project that eliminated 38MM IP addresses from our network. Contributing to our zero-trust strategy.
         + In partnership with other companies, evaluated, proposed and implemented cloud platform tooling for CSPM and CIEM capability. Both have increased our cloud health.
@@ -55,7 +54,7 @@ experience:
       location: Wichita, KS (Office)
       description: |
         + In addition to my technical contributions, I had the responsibility of supervising and leading 3 other cloud engineers.
-        + Led cloud engineers through a modernization effort for a valued manufacturing application. Highlighted in a blog by Amazon [**<u>HERE</u>**](https://aws.amazon.com/blogs/industries/invista-refactors-critical-legacy-shop-floor-application-using-aws/)        
+        + Led engineers through a modernization effort for a valued manufacturing application. Highlighted in a blog by Amazon [**<u>HERE</u>**](https://aws.amazon.com/blogs/industries/invista-refactors-critical-legacy-shop-floor-application-using-aws/)        
         + Developed the 'Vision Portal' product *(Realized value has grown to ~$2MM)*. INVISTA's first computer vision application with cloud native event-driven architecture. Capable of running inference in the cloud and on-premise.
         + While embracing continuous innovations, I lead an effort to upgrade storage and processors to accelerate speed and reduce ongoing costs which resulted in $200k YOY in run-time savings. 
           + GP2 --> GP3 storage architecture *( First at Koch to do this at scale )*
