@@ -16,17 +16,17 @@ achievements:
   order: 1
   title: Selected Achievements
   items:
-    - name: <center><b>Capability Development</b></center>
+    - name: <b>Capability Development</b>
       description: |
         + Built a software engineering capability and partnered on building a computing operations capability.
         + Recruited, managed and coached "C" talent to "A" players while address under-performers.
         + Established vision and stategy to develop a DevOps and FinOps culture through development of people, data, tools and process.
 
-    - name: <center><b>Technology Modernization and Advancements</b></center>
+    - name: <b>Technology Modernization and Advancements</b>
       description: |
         + Led or created multiple innovations that have realized ~$4MM in YOY benefit.
-        + Positioned our business with a cloud platform that can sustain forseeable future growth.
-        + Greatly improved our security posture by mitigating critical risks through coaching, knowledge processes and implementation of data-driven tools.
+        + Positioned our business with a cloud platform that can sustain forseeable future growth in region and through acquisitions.
+        + Greatly improved our security posture by mitigating critical risks through knowledge processes and implementation of data-driven tools.
 
 
 experience:
