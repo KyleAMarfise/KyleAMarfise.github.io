@@ -87,7 +87,7 @@ experience:
       description: |
         + Delivered ~$4MM in computing hardware projects for all of Koch's subsidiaries. 
         + Developed a server onboarding automation for acquisitions resulting in ~$250k in YOY labor savings.
-        + Developed a Vmware ESXi host QA process that eliminated 24hrs/mo of team labor reduced our bill back to customers.
+        + Developed a Vmware ESXi host QA process that eliminated 24hrs/mo of team labor and reduced our bill back to customers.
         + Developed a workflow for migrating servers to AWS. This mitigated $200k in project costs and accelerated Koch cloud migrations.
 
 skill:
