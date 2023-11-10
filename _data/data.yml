@@ -1,6 +1,6 @@
 basic:
   name: Kyle Marfise
-  title: Evangelist, Technologist and Leader
+  title: Leader, Technologist, Evangelist
   avatar:
     show: true                       # show or hide avatar
     path: /assets/images/profile.png # avatar file path
@@ -18,34 +18,35 @@ experience:
   items:
     - company: <h3>Platform Architecture Leader</h3>
       tags: Promotion
-      date: July, 2021 - Current
+      date: Oct, 2020 - Current
       role: INVISTA - Koch Industries
       location: Wichita, KS (Hybrid/WFH)
       description: |
         + Accountable for managing and optimizing ~$2.5MM in cloud platform spend.
         + Organized, set goals and led projects that realized $600k in YOY savings throughout my tenure in this role. This has combatted natural platform growth and driven us closer to cost neutrality from previous years.
         + Collaborated with IT senior leaders to build a computing operations team focused on increasing the health of our global server footprint. 
-        + Through effective use of RRE's, rebranding and shifting priorities, I built a growing Software Engineering capability.
-        + Interviewed over ~50 candidates for numerous IT positions which resulted in multiple hire decisions.
+        + Through adjusting team responsibilities, rebranding and shifting priorities, I built a growing Software Engineering capability.
+        + Focused on recruiting, hiring and management (growing and/or existing) individuals through performance plans.
+        + Coached "C" to "A" level talent through effective use of RRE's and alignment with gifts and business outcomes.
         + Shifted talent to other capabilities where they can be more successful long-term.
-        + Led the development of Koch's first AWS IAM management platform that manages thousands of identities across our environments. Costs under $100/mo and has generated ~$250k in value through accelerated provisioning and central management.
+        + Led the development of Koch's first AWS IAM management platform that manages thousands of identities across our environments. This generated ~$250k in value through accelerated provisioning and central management.
         + Designed a re:architecture for our enterprise data historian which will result in $100k YOY infrastructure run-time savings.
         + Led my team through a project that eliminated 38MM IP addresses from our network. Contributing to our zero-trust strategy.
         + In partnership with other companies, evaluated, proposed and implemented cloud platform tooling for CSPM and CIEM capability. Both have increased our cloud health.
-        + Through a economic and risk analysis assessment, I proposed and led our engineering teams through the implementation of two new regions for our business (US-EAST-2 (Ohio), AP-NORTHEAST-1 (Tokyo)). Ohio became our primary region with Tokyo as a second best to serve a growing segment in China.
-          + To accelerate the migration activity, we equipped teams with highly automated pipelines.
-          + Risk adjusted $550k benefit
-
-    - company: <h3>Cloud and Data Engineering Leader</h3>
-      tags: Promotion
-      date: Oct, 2020 - July, 2021
-      role: INVISTA - Koch Industries
-      location: Wichita, KS (Office)
-      description: |
-        + Coached "C" to "A" level talent through effective use of RRE's and alignment with gifts and business outcomes.
-        + After significant coaching, exited under performing talent from our organization.
+        + Though careful consideration and evaluation, I proposed and implemented a global cloud expansion project that involved the deployment of two additional AWS regions to support growing areas of our business. Risk adjusted $1MM benefit
         + Led a GAP analysis excercise that highlighted systemic problems within our data engineering organization and provided insights to senior leadership prior to my departure.
         + Collaboratively worked with Koch companies to implement Alkira (Network as a Service) for our private cloud.
+
+    # - company: <h3>Cloud and Data Engineering Leader</h3>
+    #   tags: Promotion
+    #   date: Oct, 2020 - July, 2021
+    #   role: INVISTA - Koch Industries
+    #   location: Wichita, KS (Office)
+    #   description: |
+    #     + Coached "C" to "A" level talent through effective use of RRE's and alignment with gifts and business outcomes.
+    #     + After significant coaching, exited under performing talent from our organization.
+    #     + Led a GAP analysis excercise that highlighted systemic problems within our data engineering organization and provided insights to senior leadership prior to my departure.
+    #     + Collaboratively worked with Koch companies to implement Alkira (Network as a Service) for our private cloud.
     
     - company: <h3>Lead Cloud Architect</h3>
       tags: Promotion
@@ -55,9 +56,9 @@ experience:
       description: |
         + Led cloud engineers through a modernization effort for a valued manufacturing application. Highlighted in a blog by Amazon [**<u>HERE</u>**](https://aws.amazon.com/blogs/industries/invista-refactors-critical-legacy-shop-floor-application-using-aws/)        
         + Developed the 'Vision Portal' product *(Realized value has grown to ~$2MM)*. INVISTA's first computer vision application with cloud native event-driven architecture. Capable of running inference in the cloud and on-premise.
-        + Proposed and led cost optimization efforts to transition our entire AWS platform to new computing standards.
-          + GP2 --> GP3 storage architecture *( $80k YOY, gained elasticity, first at Koch to do this at scale )*
-          + Intel --> AMD server processor architecture *( $50k YOY )*
+        + While embracing continuous innovations, I lead an effort to upgrade storage and processors to accelerate speed and reduce ongoing costs which resulted in $200k YOY in run-time savings. 
+          + GP2 --> GP3 storage architecture *( First at Koch to do this at scale )*
+          + Intel --> AMD server processor architecture
 
     - company: <h3>Technical Delivery Analyst</h3>
       tags: Entry
@@ -67,7 +68,7 @@ experience:
       description: |
         + Delivered ~$4MM in computing hardware projects for all of Koch's subsidiaries. 
         + Developed a server onboarding automation for acquisitions resulting in ~$250k in YOY labor savings.
-        + Developed a Vmware ESXi host QA process that eliminated 24hrs/mo of labor and reduced our bill back to customers by ~$2.5k/mo.
+        + Developed a Vmware ESXi host QA process that eliminated 24hrs/mo of team labor reduced our bill back to customers.
         + Developed a workflow for migrating servers to AWS. This mitigated $200k in project costs and accelerated Koch cloud migrations.
 
 skill:
