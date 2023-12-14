@@ -18,13 +18,14 @@ achievements:
   items:
     - name: <b>Capability Development</b>
       description: |
+        + Established a Developer's Community of Practice across the enterprise.
         + Built a software engineering capability and partnered on building a computing operations capability.
         + Recruited, managed and coached "C" talent to "A" players while addressing under performers.
         + Established vision and stategy to develop a DevOps and FinOps culture through development of people, data, tools and process.
 
     - name: <b>Technology Modernization and Advancements</b>
       description: |
-        + Led or created multiple innovations that have realized ~$5MM in YOY benefit.
+        + Led and created multiple innovations that have realized ~$5MM in YOY benefit.
         + Combatted our platform growth by enabling and deploying strategies that accelerated adoption for container/microservice architecture.
         + Positioned our business with a cloud platform that can sustain forseeable future growth in region and through acquisitions.
         + Greatly improved our security posture by mitigating critical risks through knowledge processes and implementation of data-driven tools.
